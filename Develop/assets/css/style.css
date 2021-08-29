@@ -32,7 +32,9 @@ body {
     font-size: 20px;
 }
 
-
+header nav ul {
+    list-style-type: none;
+}
 /* Adjusts the the spacing of the links */
 
 .header div ul li {
@@ -123,7 +125,6 @@ a {
     max-width: 150px;
 }
 
-/* image  */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
