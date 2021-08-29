@@ -4,7 +4,7 @@ This is our first homework assignment named the refactoring project, like it sou
 One of the things I learned while completing this project is that there are several ways to do the same thing. The goal was to make sure that D.R.Y was followed. Meaning " Do not Repeat Yourself". This was a bit of a challenge as I had to go through the code line by line to see if there was a need for each item. 
 
 The other part of the challenge was making the links work, but once I went back to the basics it was simple as there was some missing code. 
-(./assets/horiseon.png)
+Assets/Horiseon.png
 
 
 ## installation 
