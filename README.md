@@ -8,12 +8,13 @@ https://github.com/TVARA/refactoring-and-accessibility-project/blob/e1001bcafb5a
 
 ## Link for files
 https://github.com/TVARA/refactoring-and-accessibility-project
+https://github.com/TVARA/refactoring-and-accessibility-project.git
 
 
 ## installation 
 No installation or special programs needed, only a browser like "Google Chrome" "Firefox.
 
 
-## Credits 
+##
 
-Thank you to my instructor who without her help I would never in a million years, be able to even read code. 
+
